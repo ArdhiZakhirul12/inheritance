@@ -21,7 +21,7 @@
         //laptop2.LaptopDinyalakan();
         //laptop2.LaptopDimatikan();
         //2
-        //laptop1.NyalakanLampu();
+        //laptop1.ngoding();
         //3
         //Console.WriteLine($"Merk VGA = {laptop1.vga}, processor = {laptop1.processor.merk}, Tipe = {laptop1.processor} ");
         //4 
