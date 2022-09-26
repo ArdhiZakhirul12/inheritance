@@ -1,0 +1,15 @@
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\net6.0\Project Praktikum.exe
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\net6.0\Project Praktikum.deps.json
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\net6.0\Project Praktikum.runtimeconfig.json
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\net6.0\Project Praktikum.dll
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\bin\Debug\net6.0\Project Praktikum.pdb
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.csproj.AssemblyReference.cache
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.AssemblyInfoInputs.cache
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.AssemblyInfo.cs
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.csproj.CoreCompileInputs.cache
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.dll
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\refint\Project Praktikum.dll
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.pdb
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\Project Praktikum.genruntimeconfig.cache
+E:\0.Kuliah\Semester 3\PBO\Praktikum\Project Praktikum\Project Praktikum\obj\Debug\net6.0\ref\Project Praktikum.dll
